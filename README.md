@@ -33,10 +33,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/cdanhowell/frontend-mentor-chatapp-illustration-challenge);
+- Live Site URL: [Add live site URL here](https://cdanhowell.github.io/frontend-mentor-chatapp-illustration-challenge/);
 
 ## My process
+
+Essentially, my goal with this project was to strip out as much of the "cool" tools that I'm using to using and get down to the core basics of building an application. For development, I did use vitejs as a dev server and build tool and I did leverage a couple of Postcss plugins, but in terms of the actual html and css, I tried to keep things as vanilla as possible... though I did do some code splitting and importing to make my lift a bit easier!
 
 ### Built with
 
@@ -47,28 +49,6 @@ Users should be able to:
 - Mobile-first workflow
 - Vite
 - PostCss
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
 
 ### Continued development
 
