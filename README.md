@@ -10,11 +10,8 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -33,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cdanhowell/frontend-mentor-chatapp-illustration-challenge);
-- Live Site URL: [Add live site URL here](https://cdanhowell.github.io/frontend-mentor-chatapp-illustration-challenge/);
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/mostly-vanilla-htmlcss-and-mobilefirst-design-xt5pp7IEf7)
+- Live Site URL: [Live Site](https://cdanhowell.github.io/frontend-mentor-chatapp-illustration-challenge/)
 
 ## My process
 
@@ -57,4 +54,4 @@ I'd love to tackle the animation concept that is included in the challenge. It w
 ## Author
 
 - Website - [Dan Howell](https://www.syntesesolutions.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/cdanhowell)
+- Frontend Mentor - [cdanhowell](https://www.frontendmentor.io/profile/cdanhowell)
