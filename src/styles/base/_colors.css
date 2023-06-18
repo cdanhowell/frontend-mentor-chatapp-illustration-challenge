@@ -1,0 +1,36 @@
+:root {
+  --clr-primary-025: hsl(270, 37%, 95%);
+  --clr-primary-050: hsl(270, 36.8%, 92.5%);
+  --clr-primary-100: hsl(276, 100%, 81%);
+  --clr-primary-200: hsl(289, 100%, 72%);
+  --clr-primary-300: hsl(293, 100%, 63%);
+  --clr-primary-400: hsl(276, 55%, 52%);
+  --clr-primary-500: hsl(264, 100%, 61%);
+  --clr-primary-900: hsl(271, 36%, 24%);
+
+  --clr-neutral-100: hsl(0, 0%, 100%);
+  --clr-neutral-200: hsl(270, 20%, 96%);
+  --clr-neutral-300: hsl(206, 6%, 79%);
+  --clr-neutral-400: hsl(270, 7%, 64%);
+  --clr-neutral-500: hsl(268, 7%, 64%);
+  --clr-neutral-600: hsl(271, 15%, 43%);
+
+  --clr-gradient-100: var(--clr-primary-300);
+  --clr-gradient-900: var(--clr-primary-500);
+
+  --clr-text-100: var(--clr-neutral-200);
+  --clr-text-200: var(--clr-neutral-300);
+  --clr-text-300: var(--clr-primary-100);
+  --clr-text-400: var(--clr-primary-400);
+  --clr-text-500: var(--clr-neutral-400);
+  --clr-text-600: var(--clr-neutral-600);
+  --clr-text-900: var(--clr-primary-900);
+
+  --clr-bg: var(--clr-neutral-200);
+  --clr-app-bg: var(--clr-neutral-200);
+  --clr-chat-message-contact-bg: var(--clr-primary-050);
+  --clr-chat-message-user-bg: var(--clr-neutral-100);
+  --clr-btn-primary: var(--clr-primary-900);
+  --clr-btn-radio-outline: var(--clr-primary-200);
+  --clr-boxshadow-400: var(--clr-neutral-300);
+}

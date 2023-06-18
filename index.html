@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Frontend Mentor | Chat App CSS illustration</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./src/styles/style.css" />
+  </head>
+  <body>
+    <div class="container even-columns position-relative">
+      <div class="illustration">
+        <div class="illustration-content">
+          <div class="illustration-header gradient-primary">
+            <div>
+              <svg
+                class="icon-primary"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M15.75 19.5L8.25 12l7.5-7.5"
+                />
+              </svg>
+            </div>
+            <div class="illustration-header-contact">
+              <img
+                class="illustration-header--profile-image"
+                src="/images/avatar.jpg"
+              />
+              <div>
+                <div class="text-primary-100 text-weight-500 text-size-300">
+                  Samuel Green
+                </div>
+                <div class="text-primary-200">Available to Walk</div>
+              </div>
+            </div>
+            <div class="justify-self-end">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                class="icon-primary"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 6.75a.75.75 0 110-1.5.75.75 0 010 1.5zM12 12.75a.75.75 0 110-1.5.75.75 0 010 1.5zM12 18.75a.75.75 0 110-1.5.75.75 0 010 1.5z"
+                />
+              </svg>
+            </div>
+          </div>
+
+          <div class="illustration-body">
+            <div class="chat-message-output">
+              <div class="chat-message--contact text-primary-400">
+                That sounds great. I’d be happy with that.
+              </div>
+              <div class="chat-message--contact text-primary-400">
+                Could you send over some pictures of your dog, please?
+              </div>
+              <div class="chat-message--user chat-message--media">
+                <img src="/images/dog-image-1.jpg" />
+                <img src="/images/dog-image-2.jpg" />
+                <img src="/images/dog-image-3.jpg" />
+              </div>
+              <div class="chat-message--user box-shadow-400 text-primary-600">
+                Here are a few pictures. She’s a happy girl!
+              </div>
+              <div class="chat-message--user box-shadow-400 text-primary-600">
+                Can you make it?
+              </div>
+              <div class="chat-message--contact text-primary-400">
+                She looks so happy! The time we discussed works. How long shall
+                I take her out for?
+              </div>
+
+              <div
+                class="chat-message--contact chat-message--option gradient-primary--inverse"
+              >
+                <div class="text-primary-200 text-weight-400">
+                  30 minute walk
+                </div>
+                <div
+                  class="chat-message--option-price text-primary-100 text-weight-500"
+                >
+                  $29
+                </div>
+              </div>
+
+              <div
+                class="chat-message--contact chat-message--option gradient-primary--inverse"
+              >
+                <div class="text-primary-200 text-weight-400">1 hour walk</div>
+                <div
+                  class="chat-message--option-price text-primary-100 text-weight-500"
+                >
+                  $49
+                </div>
+              </div>
+            </div>
+
+            <div class="send-message-control box-shadow-400">
+              <div class="text-primary-200">Type a message…</div>
+              <div class="button--send-message text-primary-100">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  class="icon-primary"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    d="M8.25 4.5l7.5 7.5-7.5 7.5"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="illustration-description">
+        <div
+          class="illustration-description--header text-primary-900 text-weight-500 text-size-900"
+        >
+          Simple booking
+        </div>
+
+        <p
+          class="illustration-description--body text-primary-500 text-size-500"
+        >
+          Stay in touch with our dog walkers through the chat interface. This
+          makes it easy to discuss arrangements and make bookings. Once the walk
+          has been completed you can rate your walker and book again all through
+          the chat.
+        </p>
+      </div>
+    </div>
+
+    <div class="attribution">
+      Challenge by
+      <a
+        href="https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY"
+        target="_blank"
+        >Frontend Mentor</a
+      >. Completed by <a href="#">Dan Howell</a>.
+    </div>
+  </body>
+</html>

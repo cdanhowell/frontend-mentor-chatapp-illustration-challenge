@@ -1,0 +1,23 @@
+.illustration-description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  text-align: center;
+  line-height: 1.75;
+  margin: 5em;
+  max-width: 60ch;
+  /* position: relative; */
+}
+
+.container::after {
+  content: "";
+  position: absolute;
+  background-color: var(--clr-primary-025);
+  border-radius: 50rem 50rem 0 0;
+  width: 40em;
+  height: 60%;
+  bottom: 0;
+  right: -25rem;
+  z-index: -1;
+}

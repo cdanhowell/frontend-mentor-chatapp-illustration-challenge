@@ -1,0 +1,5 @@
+:root {
+  --illustration-border-radius: 2.5rem;
+  --message-border-radius: 0.75rem;
+  --message-border-radius-point: calc(var(--message-border-radius) / 3);
+}

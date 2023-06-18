@@ -1,0 +1,44 @@
+.text-primary-100 {
+  color: var(--clr-text-100);
+}
+.text-primary-200 {
+  color: var(--clr-text-200);
+}
+.text-primary-400 {
+  color: var(--clr-text-400);
+}
+.text-primary-500 {
+  color: var(--clr-text-500);
+}
+.text-primary-600 {
+  color: var(--clr-text-600);
+}
+.text-primary-900 {
+  color: var(--clr-text-900);
+}
+
+.text-weight-400 {
+  font-weight: var(--fw-regular);
+}
+.text-weight-500 {
+  font-weight: var(--fw-semi-bold);
+}
+.text-weight-600 {
+  font-weight: var(--fw-bold);
+}
+
+.text-size-200 {
+  font-size: 8px;
+}
+.text-size-300 {
+  font-size: 12px;
+}
+.text-size-400 {
+  font-size: var(--fs-400);
+}
+.text-size-500 {
+  font-size: var(--fs-500);
+}
+.text-size-900 {
+  font-size: var(--fs-900);
+}
